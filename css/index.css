@@ -1,0 +1,21 @@
+body {
+  color: black;
+}
+
+.card {
+  position: relative;
+  width: auto;
+}
+
+.card .btn-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.card .btn-complete {
+  position: absolute;
+  top: 5px;
+  right: 25px;
+}
+/*# sourceMappingURL=index.css.map */

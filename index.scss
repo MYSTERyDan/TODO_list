@@ -1,0 +1,20 @@
+body {
+  color: black;
+}
+
+.card {
+  position: relative;
+  width: auto;
+
+  .btn-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .btn-complete {
+    position: absolute;
+    top: 5px;
+    right: 25px;
+  }
+}
